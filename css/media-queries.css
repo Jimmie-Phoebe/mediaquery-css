@@ -87,7 +87,7 @@
         flex-grow: 4;
     }
     .sub-section{
-        /*padding-left: 10px;*/
+        width: 80%;
     }
     footer{
         display: flex;
